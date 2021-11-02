@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<title> ::Register page::
+</title>
+</head>
+<body>
+<form>
+first name:<input type="text"><br>
+last name:<input type="text"><br>
+gender:<input type="radio"><br>
+checkbox:<input type="check box"><br>
+select district:<select>
+<option>east godavari</option>
+<option>west godavari</option>
+<option>vizag</option>
+<option>vizinagaram</option>
+</select><br>
+password:<input type="password"><br>
+<input type ="submit" value="register"><br>
+<table border="2">
+<tr>
+<th>s.no</th>
+<th>name of the student</th>
+<th>college name</th>
+<th>branch</th>
+</tr>
+<tr>
+<td>1</td>
+<td>pravallika</td>
+<td>acet</td>
+<td>it</td>
+</tr>
+<tr>
+<td>2</td>
+<td>sravya</td>
+<td>acet</td>
+<td>it</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ramya</td>
+<td>acet</td>
+<td>it</td>
+</tr>
+</table>
+</div>
+<div>
+<dl>
+<dt>html</dt>
+<dd>HYPER TEXT MARKUP LANGUAGE</dd>
+<dt>CSS</dt>
+<dd>CASCADING STYLE SHEET</dd>
+<dt>JS</DT>
+<dd>JAVA SCRIPT</dd>
+</dl>
+</div>
+<footer>
+<h4>@copyrights  information:pravallika
+</h4>
+&#128556:
+</footer>
+</dl>
+</form>
+</body>
+</html>
+
